@@ -11,7 +11,7 @@ There are different color variations of this theme:
 ![image](https://i.imgur.com/TC4bsA2.png)
 [wallpaper](https://i.imgur.com/cq6Pfsc.jpg)
 
-## Red
+## Reddyt
 ![image](https://i.imgur.com/PFvpiz2.png)
 [wallpaper](https://i.imgur.com/og4olZL.png)
 

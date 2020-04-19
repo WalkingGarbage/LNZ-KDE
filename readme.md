@@ -1,7 +1,7 @@
 # LNZ-KDE
 This theme was made combining Ark Dark, McMojave and Pear Dark
 
-There are different color variations of this theme:
+There are different color variations of this theme, each one with its own KDE color theme:
 
 ## Purple
 ![image](https://i.imgur.com/8jl2fJj.png)

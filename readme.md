@@ -16,4 +16,10 @@ There are different color variations of this theme, each one with its own KDE co
 [wallpaper](https://i.imgur.com/og4olZL.png)
 
 ## Installation
-Place LNZ into /home/USER/.local/share/plasma/desktoptheme/
+Extract one of the archives (your choice), you will find a color scheme (.color) and a Plasma Theme (the folder)
+### Plasma Theme
+Place the folder into /home/USER/.local/share/plasma/desktoptheme/
+Open System Settings >>> Plasma Style and select the choosen theme.
+### Color scheme
+Place the .color file into /home/USER/.kde4/share/apps/color-schemes/
+Open System Setting >>> Colors and select the choosen color scheme.

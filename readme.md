@@ -47,3 +47,4 @@ Place _schemename_.colorscheme into /home/_USER_/.local/share/konsole/
 ![image](https://i.imgur.com/oB4xmES.png)
 
 ## Reddyt
+![image](https://i.imgur.com/hQ3gVCv.png)

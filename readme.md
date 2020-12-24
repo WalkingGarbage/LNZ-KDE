@@ -25,3 +25,25 @@ Open System Settings >>> Plasma Style and select the choosen theme.
 Place the .color file into /home/USER/.kde4/share/apps/color-schemes/
 
 Open System Setting >>> Colors and select the choosen color scheme.
+
+# LNZ-konsole-color-pack
+
+Color pack for konsole (KDE's default terminal emulator)
+
+### Installation
+
+Place _schemename_.colorscheme into /home/_USER_/.local/share/konsole/
+
+## Pinky
+
+![image](https://imgur.com/NbhqHbZ.png)
+
+## Purple
+
+![image](https://imgur.com/r3tgdzV.png)
+
+## Cherry
+
+![image](https://i.imgur.com/oB4xmES.png)
+
+## Reddyt
